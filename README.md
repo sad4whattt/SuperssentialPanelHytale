@@ -2,6 +2,9 @@
 
 A lightweight admin panel for Hytale with cleaned-up navigation, and built-in server tools.
 
+## Install here:
+[v1.0.0 Release](https://github.com/sad4whattt/SuperssentialPanelHytale/releases/tag/Release!)
+
 ## Features
 - Players: view players, heal/kill, teleport/teleport here, kick, ban, open inventory.
 - Whitelists & Bans: manage entries quickly.
@@ -32,3 +35,4 @@ Created by **[https://hytale.snipr.me](https://hytale.snipr.me/)**
 
 ## Looking for quality hosting?
 [![Kinetic Hosting - Hytale Server Hosting](https://i.ibb.co/5XFkWtyy/KH-Curse-Forge-Final-Wide-Banner-Hytale-Small.png)](https://billing.kinetichosting.com/aff.php?aff=1251)
+
