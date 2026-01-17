@@ -1,6 +1,6 @@
 # Superssential Admin Panel (AdminUI)
 
-A lightweight admin panel for Hytale with a black/transparent theme, cleaned-up navigation, and built-in server tools.
+A lightweight admin panel for Hytale with cleaned-up navigation, and built-in server tools.
 
 ## Features
 - Players: view players, heal/kill, teleport/teleport here, kick, ban, open inventory.
@@ -15,14 +15,6 @@ A lightweight admin panel for Hytale with a black/transparent theme, cleaned-up 
 ## Command / Admin entry
 - In game: `/admin` to open the panel.
 
-## Build & Install
-1. From `AdminUI-main`, build the jar:
-   ```bash
-   ./gradlew clean build jar
-   ```
-2. Drop the jar from `build/libs` into your server plugins folder.
-3. Restart the server.
-
 ## Using the Commands tab
 - Sleep Controls (collapsed by default):
   - Skip Night Now.
@@ -35,8 +27,8 @@ A lightweight admin panel for Hytale with a black/transparent theme, cleaned-up 
 - Sleep settings: `sleep-settings.properties` in the plugin data folder.
 - Welcome settings: `welcome-settings.properties` in the plugin data folder.
 
-## Notes
-- Sleep logic is implemented locally (no external MassSleep dependency) and ticks every second to skip night when thresholds are met.
+## Author
+Created by **[https://hytale.snipr.me](https://hytale.snipr.me/)**
 
-## License
-Add your preferred license here.
+## Looking for quality hosting?
+[![Kinetic Hosting - Hytale Server Hosting](https://i.ibb.co/5XFkWtyy/KH-Curse-Forge-Final-Wide-Banner-Hytale-Small.png)](https://billing.kinetichosting.com/aff.php?aff=1251)
